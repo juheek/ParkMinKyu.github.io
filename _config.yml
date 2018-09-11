@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: WEB DEV NIEE
-email: niee@naver.com
-name: Niee
+email: juheek9988@gmail.com
+name: juheeko
 description: > # this means to ignore newlines until "baseurl:"
-  한국에서 삽질하는 NIEE의 웹 개발 정보 및 잡다한 공간 입니다.
+  juhee's github page
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://parkminkyu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  parkminkyu
+url: "http://juhee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  juheek
 
 permalink : none
 encoding : UTF-8
